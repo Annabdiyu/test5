@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/annaabdiyu/Desktop/alx1/test5",
+      "program": "/Users/annaabdiyu/Desktop/alx1/test5/build/Debug/outDebug"
+    }
+  ]
+}
